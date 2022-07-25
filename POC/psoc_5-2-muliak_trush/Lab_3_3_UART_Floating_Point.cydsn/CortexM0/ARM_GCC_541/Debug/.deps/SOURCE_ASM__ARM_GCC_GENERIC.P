@@ -1,0 +1,8 @@
+C:/Users/Ade0n/Desktop/lab/AAAAAAAAAAAAAAA/psoc_5-2-muliak_trush/Lab_3_2_UART_Floating_Point.cydsn/CortexM0/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Users/Ade0n/Desktop/lab/AAAAAAAAAAAAAAA/psoc_5-2-muliak_trush/Lab_3_2_UART_Floating_Point.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/Users/Ade0n/Desktop/lab/AAAAAAAAAAAAAAA/psoc_5-2-muliak_trush/Lab_3_2_UART_Floating_Point.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/Ade0n/Desktop/lab/AAAAAAAAAAAAAAA/psoc_5-2-muliak_trush/Lab_3_2_UART_Floating_Point.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/Users/Ade0n/Desktop/lab/AAAAAAAAAAAAAAA/psoc_5-2-muliak_trush/Lab_3_2_UART_Floating_Point.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/Users/Ade0n/Desktop/lab/AAAAAAAAAAAAAAA/psoc_5-2-muliak_trush/Lab_3_2_UART_Floating_Point.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/Users/Ade0n/Desktop/lab/AAAAAAAAAAAAAAA/psoc_5-2-muliak_trush/Lab_3_2_UART_Floating_Point.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

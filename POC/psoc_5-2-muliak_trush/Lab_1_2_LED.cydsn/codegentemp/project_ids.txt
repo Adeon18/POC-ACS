@@ -1,0 +1,12 @@
+C:\Users\Ade0n\Desktop\lab\psoc_5-2-muliak_trush\Lab_1_1_LED.cydsn\Lab_1_1_LED.cyprj|0a020353-f913-48f4-bc73-92e3fcda4f15
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8b669c0f-8ab4-4358-bbfe-0c7442d5d64e
+C:\Users\Ade0n\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|b3b7fe2c-e72e-4cc7-981b-5221225ef4c3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|634638d6-2ed7-4e87-a294-8a2789d83c0c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f8ac2e5c-c71f-4a4e-a7f2-9c6e99c35af5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2f36be87-9339-48e9-950d-b0d555b87f3b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|81cd5fdc-857d-4dbf-bfd1-ba92d3adaff8
+C:\Users\Ade0n\Desktop\lab\psoc_5-2-muliak_trush\Lab_1_2_LED.cydsn\Lab_1_2_LED.cyprj|c8465133-f1c3-4c35-8df3-bf5abe3a3c33
+C:\Users\Ade0n\Desktop\lab\psoc_5-2-muliak_trush\Lab_1_3_LED.cydsn\Lab_1_3_LED.cyprj|b3320616-2231-4178-a9a4-4c736efbfb72
+C:\Users\Ade0n\Desktop\lab\psoc_5-2-muliak_trush\Lab_3_1_UART_Transmitting.cydsn\Lab_3_1_UART_Transmitting.cyprj|f52449ef-6127-47d3-942e-f4e54bcdceff
+C:\Users\Ade0n\Desktop\lab\psoc_5-2-muliak_trush\Lab_3_2_UART_Led.cydsn\Lab_3_2_UART_Led.cyprj|f0a3e8a5-fbd6-4033-bcf3-db624bfbfc13
+C:\Users\Ade0n\Desktop\lab\psoc_5-2-muliak_trush\Lab_2_7SEG.cydsn\Lab_2_7SEG.cyprj|f4d6c97b-b1d1-4604-b2f4-80d9613cb23b

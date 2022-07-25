@@ -1,0 +1,15 @@
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_1_1_LED.cydsn\Lab_1_1_LED.cyprj|3c8ba235-35eb-4580-9b4a-25ebcf151093
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7ec6f3b5-f078-47b0-969e-6f2dc5026d5d
+C:\Users\Ade0n\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|87d2f75c-573d-4e9b-a399-d10959a01a2d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|b1fca23c-7a0d-45b7-9c70-2c793287d558
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|6ba2f465-fef2-4780-bbe6-72333ef7e9be
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|eeac4284-dbcc-4f62-9c84-339d94b1db51
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|9a6eb8e3-1f1c-4428-8268-74f41cb52aec
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_1_2_LED.cydsn\Lab_1_2_LED.cyprj|0f33bae1-da27-4416-a7aa-3435197ea586
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_3_1_UART_Transmitting.cydsn\Lab_3_1_UART_Transmitting.cyprj|6a43d12c-e09b-4a53-9909-c1a9269c6cc5
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_3_2_UART_Led.cydsn\Lab_3_2_UART_Led.cyprj|ef3381c2-a5a4-4c81-b664-9252decd0086
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_2_7SEG.cydsn\Lab_2_7SEG.cyprj|49267eaf-da43-48de-87d0-e2a7da689760
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_1_3_LED.cydsn\Lab_1_3_LED.cyprj|aca6c425-e5a6-4c9b-be1f-e3c1cef0a5c3
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_2_7SEG_2.cydsn\Lab_2_7SEG_2.cyprj|54f2b0ab-5da0-42b5-9d11-3a5cda6d1e19
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_2_7SEG_3.cydsn\Lab_2_7SEG_3.cyprj|eb387f29-0c93-4eeb-a29a-848ea029cdee
+C:\Users\Ade0n\Desktop\lab\AAAAAAAAAAAAAAA\psoc_5-2-muliak_trush\Lab_3_2_UART_Floating_Point.cydsn\Lab_3_2_UART_Floating_Point.cyprj|c3b7d35f-ccd8-4c90-bd19-774885384e9f
